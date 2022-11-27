@@ -1,0 +1,12 @@
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll

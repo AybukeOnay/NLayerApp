@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpMCQAsNnEPQ8m8fjtOjY6ORKx52OeAxaO3+tEIHYvDqm+HQOFxklJ8UcfpDI4/EqWCGe3aFu5RwvgHEkhUm6A==",
+  "success": true,
+  "projectFilePath": "D:\\AspNet Core Web_Api Udemy Egitim\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AybukeONAY\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AybukeONAY\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AybukeONAY\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AybukeONAY\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AybukeONAY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AybukeONAY\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
