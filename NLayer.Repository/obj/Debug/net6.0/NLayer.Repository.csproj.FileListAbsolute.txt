@@ -13,3 +13,5 @@ D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Repository\obj\Debug\net6.0
 D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
 D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
 D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+D:\AspNet Core Web_Api Udemy Egitim\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
